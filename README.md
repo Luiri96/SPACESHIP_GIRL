@@ -37,7 +37,7 @@ El objetivo es acumular 30 puntos para que la nave pueda regresar a la Tierra. L
    python juego.py
 
 
-##Explicación del Código
+## Explicación del Código
 Inicialización de Pygame: Se inicializa Pygame y se configuran las dimensiones de la pantalla, colores, y recursos como imágenes y sonidos.
 
 Clases:
